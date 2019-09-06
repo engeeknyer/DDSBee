@@ -1,0 +1,2 @@
+<h1> DDSBee Project </h1>
+<p> Aquest projecte desenvolupa un mòdul DDS dins d'un format de placa del típus XBee. D'aquesta manera es pot garantir la compatibilitat física i elèctrica amb els mòduls d'aquesta familia, mentre que es fa necesari l'implementació d'un llenguatge de comunicació entre el mòdul i el seu controlador.
